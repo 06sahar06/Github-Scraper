@@ -1,0 +1,902 @@
+[
+    {
+        "Username": "rowlandjl",
+        "Name": "Jessica Rowland",
+        "Company": null,
+        "Location": "Richmond, VA",
+        "Public Repos": 623,
+        "Followers": 1,
+        "Following": 2,
+        "Profile URL": "https://github.com/rowlandjl",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "a-tag-with-href-attributes-lab-cb-000",
+            "Active-Record-Association-Methods-cb-gh-000",
+            "activerecord-associations-intro-cb-000",
+            "activerecord-associations-intro-cb-gh-000",
+            "activerecord-costume-store-todo-cb-000"
+        ]
+    },
+    {
+        "Username": "favourch",
+        "Name": "Favour Chukwuedo",
+        "Company": null,
+        "Location": "Vancouver, Canada",
+        "Public Repos": 542,
+        "Followers": 159,
+        "Following": 952,
+        "Profile URL": "https://github.com/favourch",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "100-days-of-code",
+            "100-days-of-code-log-r4",
+            "192.168.1.1",
+            "737",
+            "Abiola-Farounbi"
+        ]
+    },
+    {
+        "Username": "mcerow",
+        "Name": "Maura Cerow",
+        "Company": null,
+        "Location": "Rockville Centre, NY",
+        "Public Repos": 447,
+        "Followers": 4,
+        "Following": 2,
+        "Profile URL": "https://github.com/mcerow",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "abv_predictor",
+            "als-recommender-system-pyspark-lab-nyc-ds-021720",
+            "applying-gradient-descent-data-science-intro-000",
+            "applying-gradient-descent-lab-data-science-intro-000",
+            "applying-nearest-neighbors-data-science-intro-000"
+        ]
+    },
+    {
+        "Username": "luisdomin5",
+        "Name": "Luis D",
+        "Company": null,
+        "Location": "Chicago, IL ",
+        "Public Repos": 421,
+        "Followers": 155,
+        "Following": 2005,
+        "Profile URL": "https://github.com/luisdomin5",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "ab-test",
+            "ABTesting",
+            "Adafruit_Python_SSD1306",
+            "add_districts_sm",
+            "Adventure.ai-"
+        ]
+    },
+    {
+        "Username": "jrodden1",
+        "Name": "jrodden1",
+        "Company": "Smithy, Inc",
+        "Location": null,
+        "Public Repos": 386,
+        "Followers": 12,
+        "Following": 19,
+        "Profile URL": "https://github.com/jrodden1",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "061019-ft-redux-intro",
+            "a-react-app-example-online-web-ft-061019",
+            "Active-Record-Association-Methods-online-web-ft-061019",
+            "activerecord-associations-intro-online-web-ft-061019",
+            "activerecord-costume-store-todo-online-web-ft-061019"
+        ]
+    },
+    {
+        "Username": "christophermoura",
+        "Name": "Christopher Moura",
+        "Company": null,
+        "Location": "Porto, Portugal",
+        "Public Repos": 342,
+        "Followers": 85,
+        "Following": 94,
+        "Profile URL": "https://github.com/christophermoura",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "12factor",
+            "abnt-typst",
+            "Accessible-Mega-Menu",
+            "acho",
+            "activerecord_i18n_defaults"
+        ]
+    },
+    {
+        "Username": "cristina-cristobal",
+        "Name": "Tina Cristobal",
+        "Company": null,
+        "Location": "Arlington, Virginia",
+        "Public Repos": 325,
+        "Followers": 7,
+        "Following": 7,
+        "Profile URL": "https://github.com/cristina-cristobal",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "a-react-app-example-dc-web-career-040119",
+            "activerecord-associations-intro-dc-web-career-040119",
+            "activerecord-costume-store-todo-dc-web-career-040119",
+            "activerecord-crud-dc-web-career-040119",
+            "activerecord-lifecycle-reading-dc-web-career-040119"
+        ]
+    },
+    {
+        "Username": "tomjmcnamee",
+        "Name": "Tom McNamee",
+        "Company": null,
+        "Location": "Dayton",
+        "Public Repos": 319,
+        "Followers": 2,
+        "Following": 1,
+        "Profile URL": "https://github.com/tomjmcnamee",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "a-react-app-example-nyc-web-080519",
+            "Active-Record-Association-Methods-nyc-web-080519",
+            "activerecord-associations-intro-nyc-web-080519",
+            "activerecord-costume-store-todo-nyc-web-080519",
+            "activerecord-crud-nyc-web-080519"
+        ]
+    },
+    {
+        "Username": "ProjetsPlusIA",
+        "Name": "Toros",
+        "Company": "McGill University",
+        "Location": "Montreal, Quebec, Canada",
+        "Public Repos": 312,
+        "Followers": 1,
+        "Following": 1,
+        "Profile URL": "https://github.com/ProjetsPlusIA",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "Actor-Critic-Methods-Paper-To-Code",
+            "Advanced-Deep-Learning-with-Python",
+            "algorithmic-trading-in-python",
+            "algorithmic-trading-python",
+            "algorithmic-trading-with-python"
+        ]
+    },
+    {
+        "Username": "ktzioumis",
+        "Name": "Kosta Tzioumis",
+        "Company": null,
+        "Location": "New York City",
+        "Public Repos": 300,
+        "Followers": 5,
+        "Following": 11,
+        "Profile URL": "https://github.com/ktzioumis",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "amazon-sagemaker-keras-text-classification",
+            "applying-gradient-descent-data-science-intro-000",
+            "applying-gradient-descent-lab",
+            "applying-gradient-descent-lab-data-science-intro-000",
+            "applying-nearest-neighbors-data-science-intro-000"
+        ]
+    },
+    {
+        "Username": "hemel-cse",
+        "Name": "Md Hashibul Amin",
+        "Company": "DevsHQ",
+        "Location": "Dhaka",
+        "Public Repos": 294,
+        "Followers": 50,
+        "Following": 181,
+        "Profile URL": "https://github.com/hemel-cse",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "30-days-of-elixir",
+            "A2Z-F16",
+            "acorn",
+            "admin",
+            "admin-page-framework"
+        ]
+    },
+    {
+        "Username": "AnneElizabeth",
+        "Name": "Anne E.",
+        "Company": null,
+        "Location": "Idaho Falls, ID",
+        "Public Repos": 280,
+        "Followers": 3,
+        "Following": 0,
+        "Profile URL": "https://github.com/AnneElizabeth",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "a-tag-with-href-attributes-lab-v-000",
+            "Active-Record-Association-Methods-online-web-pt-051319",
+            "activerecord-associations-intro-online-web-pt-051319",
+            "activerecord-costume-store-todo-online-web-pt-021119",
+            "activerecord-costume-store-todo-online-web-pt-051319"
+        ]
+    },
+    {
+        "Username": "rserran",
+        "Name": "Ricardo J. Serrano",
+        "Company": "Adventurous Analytics",
+        "Location": "Orlando, FL",
+        "Public Repos": 278,
+        "Followers": 25,
+        "Following": 106,
+        "Profile URL": "https://github.com/rserran",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "10-steps-to-become-a-data-scientist",
+            "100-Days-Of-ML-Code",
+            "2019-07_useR-toulouse-usethis",
+            "2021-NYR",
+            "A-Comprehensive-ML-Workflow-for-Regression-Methods"
+        ]
+    },
+    {
+        "Username": "panchalsagar1815",
+        "Name": "Sagar Panchal",
+        "Company": null,
+        "Location": "Germany",
+        "Public Repos": 268,
+        "Followers": 4,
+        "Following": 5,
+        "Profile URL": "https://github.com/panchalsagar1815",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "1-million-soduku-solver-using-neural-nets",
+            "2016-General-Election-Poll-Analysis",
+            "2021-Forbes-Billionaires-Data-Analysis",
+            "28-Languages-Stop-Words",
+            "50-startup-success-rates-predictions"
+        ]
+    },
+    {
+        "Username": "omegamarkos",
+        "Name": "Omega Markos",
+        "Company": "Flatiron",
+        "Location": null,
+        "Public Repos": 236,
+        "Followers": 3,
+        "Following": 1,
+        "Profile URL": "https://github.com/omegamarkos",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "30-Days-Of-Python",
+            "additional-topic-plotly",
+            "amazon-sagemaker-keras-text-classification",
+            "analyzing-macbeth-project-online-ds-ft-061019",
+            "applying-gradient-descent-lab-data-science-intro-000"
+        ]
+    },
+    {
+        "Username": "garynth41",
+        "Name": "Gary N. Thomas BBA, MSc.",
+        "Company": "GCC Inc",
+        "Location": "Columbus, Ohio",
+        "Public Repos": 233,
+        "Followers": 38,
+        "Following": 135,
+        "Profile URL": "https://github.com/garynth41",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "-Applied-Data-Science-with-Python-Specialization",
+            "-Java-Programming-and-Software-Engineering-Fundamentals-Specialization",
+            "-ML-on-GCP-C1-Invoking-Machine-Learning-APIs",
+            "08-practical-ml",
+            "Advanced-Machine-Learning-Specialization"
+        ]
+    },
+    {
+        "Username": "njambi-muhoro",
+        "Name": "njambi",
+        "Company": "Entry Capital Limited",
+        "Location": "Canada",
+        "Public Repos": 215,
+        "Followers": 2,
+        "Following": 4,
+        "Profile URL": "https://github.com/njambi-muhoro",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "book_library_fork",
+            "conditionsInSQL",
+            "create-react-app",
+            "CRUD-js",
+            "DashBoard"
+        ]
+    },
+    {
+        "Username": "gyssels",
+        "Name": "Christian P. Gyssels ",
+        "Company": "DEKERACT",
+        "Location": "Brussels, Belgium & Florian\u00f3polis, SC, Brazil",
+        "Public Repos": 206,
+        "Followers": 12,
+        "Following": 34,
+        "Profile URL": "https://github.com/gyssels",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "20480-Programming-in-HTML5-with-JavaScript-and-CSS3",
+            "20483-Programming-in-C-Sharp",
+            "20533-ImplementingMicrosoftAzureInfrastructureSolutions",
+            "20535-ArchitectingMicrosoftAzureSolutions",
+            "40553A-Microsoft-Security-Workshop-Planning-for-a-Secure-Enterprise-Improving-Detection"
+        ]
+    },
+    {
+        "Username": "manan-bedi2908",
+        "Name": "Manan Bedi",
+        "Company": "Paytm",
+        "Location": "Delhi,India",
+        "Public Repos": 201,
+        "Followers": 71,
+        "Following": 29,
+        "Profile URL": "https://github.com/manan-bedi2908",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "10-days-of-code",
+            "2020-Countdown",
+            "30daysofcode-in-quarantine",
+            "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+            "6-days-of-solidity"
+        ]
+    },
+    {
+        "Username": "jmacapagal90",
+        "Name": "James Macapagal",
+        "Company": null,
+        "Location": "Chicago, IL",
+        "Public Repos": 201,
+        "Followers": 2,
+        "Following": 7,
+        "Profile URL": "https://github.com/jmacapagal90",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "bob-ross-painting-jmac",
+            "bsc-jmm-demo",
+            "coffee-shop",
+            "fibonacci-series",
+            "find-first-duplicate"
+        ]
+    },
+    {
+        "Username": "Yee-Brian21",
+        "Name": "Brian Yee",
+        "Company": "Colgate-Palmolive",
+        "Location": null,
+        "Public Repos": 193,
+        "Followers": 2,
+        "Following": 1,
+        "Profile URL": "https://github.com/Yee-Brian21",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "analyzing-macbeth-project-nyc-ds-071519",
+            "applying-nearest-neighbors-data-science-intro-000",
+            "calculating-distance-data-science-intro-000",
+            "calculating-distance-lab-data-science-intro-000",
+            "calculating-lines-data-science-intro-000"
+        ]
+    },
+    {
+        "Username": "1Wambugu",
+        "Name": "Martin Wambugu",
+        "Company": null,
+        "Location": "Nairobi",
+        "Public Repos": 188,
+        "Followers": 1,
+        "Following": 3,
+        "Profile URL": "https://github.com/1Wambugu",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "1Wambugu",
+            "champion",
+            "Code-challenge-Heroes",
+            "Debt-col",
+            "documentstructure"
+        ]
+    },
+    {
+        "Username": "kylegwlawrence",
+        "Name": "Kyle Lawrence",
+        "Company": null,
+        "Location": "Vancouver, BC",
+        "Public Repos": 184,
+        "Followers": 2,
+        "Following": 2,
+        "Profile URL": "https://github.com/kylegwlawrence",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "airflow_dags",
+            "bay-area-bike-share",
+            "coffee-quality-database",
+            "conditionals-python-lab-data-science-intro-000",
+            "conditionals-python-readme-data-science-intro-000"
+        ]
+    },
+    {
+        "Username": "raketbizdev",
+        "Name": "Ruel Nopal",
+        "Company": "IT Consultant",
+        "Location": "Metro Manila, Philippines",
+        "Public Repos": 171,
+        "Followers": 79,
+        "Following": 14,
+        "Profile URL": "https://github.com/raketbizdev",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "add-divi-on-custom-post-type",
+            "adminx",
+            "aislemx",
+            "amailsender",
+            "amplify_demo"
+        ]
+    },
+    {
+        "Username": "marikullom",
+        "Name": "Mari Ullom",
+        "Company": null,
+        "Location": "Gautier, Mississippi",
+        "Public Repos": 163,
+        "Followers": 6,
+        "Following": 4,
+        "Profile URL": "https://github.com/marikullom",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "-MySQL-Data-Analysis-Business-Intelligence",
+            "11ty-marikay",
+            "960-Grid-System",
+            "ai-content-gen-with-bloom",
+            "airbnbanalytics"
+        ]
+    },
+    {
+        "Username": "pandeynandancse",
+        "Name": "Nandan Pandey",
+        "Company": null,
+        "Location": "Kurukshetra, Haryana ,India .",
+        "Public Repos": 154,
+        "Followers": 17,
+        "Following": 45,
+        "Profile URL": "https://github.com/pandeynandancse",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "2_minutes_notes",
+            "AarogyaSetu_Android",
+            "adobe-experience-manager",
+            "advance_computing_network",
+            "AiPinter-v2.0"
+        ]
+    },
+    {
+        "Username": "luizcbprt",
+        "Name": "Luiz",
+        "Company": null,
+        "Location": "S\u00e3o Paulo",
+        "Public Repos": 149,
+        "Followers": 56,
+        "Following": 240,
+        "Profile URL": "https://github.com/luizcbprt",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "100daysofweb-with-python-course",
+            "a-good-readme-template",
+            "algorithms",
+            "Android-SpinKit",
+            "AngularJS-sublime-package"
+        ]
+    },
+    {
+        "Username": "HayesJohnD",
+        "Name": "John Hayes",
+        "Company": null,
+        "Location": "USA",
+        "Public Repos": 138,
+        "Followers": 2,
+        "Following": 4,
+        "Profile URL": "https://github.com/HayesJohnD",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "100-days-of-code",
+            "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+            "AI-Expert-Roadmap",
+            "arviz",
+            "awesome-github-profile-readme-templates"
+        ]
+    },
+    {
+        "Username": "vchen-98",
+        "Name": "Victor Chen",
+        "Company": null,
+        "Location": "San Francisco",
+        "Public Repos": 136,
+        "Followers": 1,
+        "Following": 0,
+        "Profile URL": "https://github.com/vchen-98",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "applying-gradient-descent-data-science-intro-000",
+            "applying-gradient-descent-lab-data-science-intro-000",
+            "applying-nearest-neighbors-data-science-intro-000",
+            "birdviz_activity",
+            "calculating-distance-data-science-intro-000"
+        ]
+    },
+    {
+        "Username": "sylviewn",
+        "Name": "Sylvie Nzesse Wette",
+        "Company": null,
+        "Location": null,
+        "Public Repos": 132,
+        "Followers": 0,
+        "Following": 2,
+        "Profile URL": "https://github.com/sylviewn",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "30-Days-Readmission",
+            "agile-assignment-3",
+            "agile-final-project",
+            "AIDI1006",
+            "aks-demo"
+        ]
+    },
+    {
+        "Username": "preetamjumech",
+        "Name": "Preetam Saha",
+        "Company": "CGI",
+        "Location": "Bengaluru, India",
+        "Public Repos": 130,
+        "Followers": 21,
+        "Following": 96,
+        "Profile URL": "https://github.com/preetamjumech",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "abalone_dataset",
+            "agriculture_plant_classification_cnn",
+            "AIC-BIC",
+            "amazon_vs_flipkart_review",
+            "Anomaly-Detection-isolation-forest"
+        ]
+    },
+    {
+        "Username": "antonio-gmoura",
+        "Name": "Antonio Moura",
+        "Company": null,
+        "Location": "Manaus, AM, Brazil",
+        "Public Repos": 128,
+        "Followers": 19,
+        "Following": 61,
+        "Profile URL": "https://github.com/antonio-gmoura",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "acelereracao-global-dev-4-everis-dio",
+            "android-bootcamp-drinkwater",
+            "android-bootcamp-threading",
+            "arquitetura-de-componentes",
+            "aula_bootstrap"
+        ]
+    },
+    {
+        "Username": "Charlesugwu",
+        "Name": "Charles Ugwu",
+        "Company": "Digibrid Inc.",
+        "Location": "London, UK",
+        "Public Repos": 128,
+        "Followers": 0,
+        "Following": 3,
+        "Profile URL": "https://github.com/Charlesugwu",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "academico",
+            "AdminLTE",
+            "aimeos",
+            "aimeos-laravel",
+            "airbnb-clone"
+        ]
+    },
+    {
+        "Username": "t-marina-v",
+        "Name": "Marina Tyutyunnikova",
+        "Company": "Almaty Management University",
+        "Location": "Almaty, Kazakhstan",
+        "Public Repos": 127,
+        "Followers": 3,
+        "Following": 2,
+        "Profile URL": "https://github.com/t-marina-v",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "-R",
+            "-R-Tutorial-RU",
+            "2.-Michael-Sullivan.-Fundamentals-of-Statistics-Statistics6e",
+            "911-calls---Capstone-Project",
+            "ABC-XYZ_Segmentation"
+        ]
+    },
+    {
+        "Username": "neutrinoxtronic",
+        "Name": "Jos\u00e9 F.",
+        "Company": null,
+        "Location": null,
+        "Public Repos": 127,
+        "Followers": 2,
+        "Following": 35,
+        "Profile URL": "https://github.com/neutrinoxtronic",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "30-seconds-of-code",
+            "Accenture-alexia",
+            "advanced-java",
+            "aFarkas-lazysizes",
+            "ajax-php"
+        ]
+    },
+    {
+        "Username": "teguhprasetyo03",
+        "Name": "Teguh Prasetyo",
+        "Company": "Kelas Coding Indonesia",
+        "Location": "Indonesia",
+        "Public Repos": 125,
+        "Followers": 8,
+        "Following": 5,
+        "Profile URL": "https://github.com/teguhprasetyo03",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "Absen-karyawan",
+            "absensi-online-berbasis-android-menggunakan-JSON",
+            "absensiqrcode",
+            "AbsensiSiswa",
+            "Android-Kotlin-Fundamenta-l01.1-Get-Started"
+        ]
+    },
+    {
+        "Username": "Artisan-Consulting",
+        "Name": "William Kwan",
+        "Company": "TechArtisan",
+        "Location": "Sydney",
+        "Public Repos": 123,
+        "Followers": 0,
+        "Following": 0,
+        "Profile URL": "https://github.com/Artisan-Consulting",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "Artisan-Consulting",
+            "blog-app",
+            "blog-post-app",
+            "demo-project",
+            "finnhub-js"
+        ]
+    },
+    {
+        "Username": "Prathyusha-L",
+        "Name": "L Prathyusha",
+        "Company": null,
+        "Location": null,
+        "Public Repos": 121,
+        "Followers": 0,
+        "Following": 11,
+        "Profile URL": "https://github.com/Prathyusha-L",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "-100daysofCode-Day1-Basics-",
+            "100Daysofcode---Day-10-Packages---Numpy-and-Pandas-",
+            "100DaysofCode---Day-100-Modifiers-",
+            "100Daysofcode---Day-11-Loading-the-data-on-jupyter-notebook-",
+            "100Daysofcode---Day-12-Data-Cleaning-"
+        ]
+    },
+    {
+        "Username": "samirmaalouf",
+        "Name": "Sam",
+        "Company": null,
+        "Location": null,
+        "Public Repos": 115,
+        "Followers": 1,
+        "Following": 16,
+        "Profile URL": "https://github.com/samirmaalouf",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "Absolute-Series-Scanner",
+            "adminhub",
+            "AI-Expert-Roadmap",
+            "anystyle",
+            "Artificial-Intelligence"
+        ]
+    },
+    {
+        "Username": "oluexpert99",
+        "Name": "Farooq Ayoade",
+        "Company": null,
+        "Location": "Lagos Nigeria ",
+        "Public Repos": 114,
+        "Followers": 3,
+        "Following": 2,
+        "Profile URL": "https://github.com/oluexpert99",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "-Six-Degrees-of-Kevin-Bacon-",
+            "AimlChatbot",
+            "Algorithms_DataStructures",
+            "ATM-ISO-8583",
+            "atompay"
+        ]
+    },
+    {
+        "Username": "mohammedtoumi007",
+        "Name": "Mohammed Away Toumi",
+        "Company": "Higher institute of computing and multimedia of sfax",
+        "Location": "Sfax, Tunisia",
+        "Public Repos": 111,
+        "Followers": 16,
+        "Following": 136,
+        "Profile URL": "https://github.com/mohammedtoumi007",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "-html-2021-assignments",
+            "-Machine-Learning-Projects-DataCamp",
+            "-PortfolioProjects",
+            "-sql-khan-academy-challenges",
+            "100-days-of-code-frontend"
+        ]
+    },
+    {
+        "Username": "jul1998",
+        "Name": "Juli\u00e1n Andr\u00e9s ",
+        "Company": "Amazon",
+        "Location": "Costa Rica",
+        "Public Repos": 111,
+        "Followers": 6,
+        "Following": 4,
+        "Profile URL": "https://github.com/jul1998",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "About-4Geeks-Academy",
+            "alphabetSoup",
+            "Authentication-system-with-Python-Flask-and-React.js-Flask-side",
+            "Authentication-system-with-Python-Flask-and-React.js-React-side-",
+            "Authentication-with-flask"
+        ]
+    },
+    {
+        "Username": "tamjid-ahsan",
+        "Name": "Tamjid Ahsan",
+        "Company": "Personal Code Repository",
+        "Location": "Iowa, USA",
+        "Public Repos": 110,
+        "Followers": 8,
+        "Following": 3,
+        "Profile URL": "https://github.com/tamjid-ahsan",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "applying-gradient-descent-data-science-intro-000",
+            "applying-gradient-descent-lab-data-science-intro-000",
+            "applying-nearest-neighbors-data-science-intro-000",
+            "awesome-generative-ai-guide",
+            "beginners-guide-for-feature-selection"
+        ]
+    },
+    {
+        "Username": "AlexisTercero55",
+        "Name": "Alexis Tercero",
+        "Company": "{this}",
+        "Location": "CDMX",
+        "Public Repos": 107,
+        "Followers": 9,
+        "Following": 15,
+        "Profile URL": "https://github.com/AlexisTercero55",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "1769-HTML5-y-CSS3-parte4",
+            "1846-Java-y-JDBC-Trabajando-con-una-Base-de-Datos",
+            "1952-spring-boot-3-rest-api",
+            "1979-spring-boot-buenas-practicas-security",
+            "3D-Graphics-Engine"
+        ]
+    },
+    {
+        "Username": "hendrybones",
+        "Name": "Hendry Mwamburi",
+        "Company": null,
+        "Location": "Kenya",
+        "Public Repos": 106,
+        "Followers": 0,
+        "Following": 0,
+        "Profile URL": "https://github.com/hendrybones",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "Aggree",
+            "android-kotlin-fundamentals-starter-apps",
+            "android_projects-",
+            "API",
+            "ApiJava_Test"
+        ]
+    },
+    {
+        "Username": "aalex",
+        "Name": "Alexandre Quessy",
+        "Company": "Art + Code",
+        "Location": "Qu\u00e9bec, Canada",
+        "Public Repos": 104,
+        "Followers": 103,
+        "Following": 26,
+        "Profile URL": "https://github.com/aalex",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "aalex-utils",
+            "agesture",
+            "aiologger",
+            "alc_freeliner",
+            "ambi"
+        ]
+    },
+    {
+        "Username": "zamanshakil",
+        "Name": "Shakil Zaman",
+        "Company": "Paychex",
+        "Location": "Rochester, New York",
+        "Public Repos": 103,
+        "Followers": 0,
+        "Following": 5,
+        "Profile URL": "https://github.com/zamanshakil",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "black_jack",
+            "cellphone_world",
+            "core_ml_models",
+            "credit_card_approval_forecast",
+            "data_structures_algorithm_coursera"
+        ]
+    },
+    {
+        "Username": "Vikasrathi1992",
+        "Name": "Vikas Rathi",
+        "Company": null,
+        "Location": "Amsterdam ",
+        "Public Repos": 102,
+        "Followers": 5,
+        "Following": 10,
+        "Profile URL": "https://github.com/Vikasrathi1992",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "bcn-feb-2019-prework",
+            "data-prework",
+            "data_1.02_excell_activity",
+            "data_1.03_activities",
+            "data_1.04_activities"
+        ]
+    },
+    {
+        "Username": "sydneycamille0896",
+        "Name": "Sydney Robinson",
+        "Company": "Taylor Corporation",
+        "Location": null,
+        "Public Repos": 101,
+        "Followers": 0,
+        "Following": 0,
+        "Profile URL": "https://github.com/sydneycamille0896",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "asylum-rg-fe-starter",
+            "bloomtech-codealong",
+            "Components-I",
+            "DOM-I",
+            "DOM-II"
+        ]
+    },
+    {
+        "Username": "practicingruby",
+        "Name": "Gregory Brown",
+        "Company": "Practicing Developer",
+        "Location": "New Haven, CT",
+        "Public Repos": 100,
+        "Followers": 444,
+        "Following": 3,
+        "Profile URL": "https://github.com/practicingruby",
+        "Repo Count": 30,
+        "Top Repositories": [
+            "alexeymk.github.com",
+            "baby.gregandjia.com",
+            "binary_examples",
+            "blog",
+            "bookie"
+        ]
+    }
+]
