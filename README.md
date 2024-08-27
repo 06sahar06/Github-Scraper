@@ -5,6 +5,7 @@ This repository searches for github profiles and extracts data from them
 ## Overview
 
 This repository contains a code that aims to search for profiles in a specific field based on a keyword and extract data from each profile with a maximum number of 50 profiles per search
+The attached json files are example outputs of the scripts
 ## Getting Started
 
 ### Follow these steps to get started with the project:
